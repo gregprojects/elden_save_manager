@@ -1,0 +1,1 @@
+# elden_save_manager
